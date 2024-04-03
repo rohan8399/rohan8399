@@ -26,9 +26,8 @@ Building scalable data pipelines and cloud-native applications
 
 ## 📫 How to reach me
 
-### LinkedIn: linkedin.com/in/rp8399 
-### GitHub: github.com/rohan8399
-### Email: rohanp8399@gmail.com
-
+- **LinkedIn:** [linkedin.com/in/rp8399](https://linkedin.com/in/rp8399)
+- **GitHub:** [github.com/rohan8399](https://github.com/rohan8399)
+- **Email:** [rohanp8399@gmail.com](mailto:rohanp8399@gmail.com)
 
 
